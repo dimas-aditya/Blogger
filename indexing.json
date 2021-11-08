@@ -1,0 +1,47 @@
+[
+{
+"id": 374,
+"callItemDate": "2021-11-08T10:25:59.55",
+"caller": "Tester",
+"callerNo": "08223333",
+"subject": "Data Employee",
+"comment": "test",
+"clientMemberId": "EMP18041808",
+"patientName": null,
+"createBy": "admin",
+"createDate": "2021-11-08T10:25:59.487",
+"updateBy": null,
+"updateDate": "2021-11-08T10:25:59.487",
+"isDeleted": false
+},
+{
+"id": 369,
+"callItemDate": "2021-10-14T12:00:38.55",
+"caller": "angga",
+"callerNo": null,
+"subject": "Rawat Jalan ",
+"comment": "dx hypercholesterolemia keluhan pusing obat sanmol Rp 5.979 simvastatin Rp 13.337 lab paket kolestrol Rp 204.000 glukosa puasa 56.000 regist 30.000 konsul 93.000 dokter Dio (umum) // total 402.317 mr: 059651 email : kasir@rspermatapamulang.co.id // full cover acc ebi ",
+"clientMemberId": "EMP18041808",
+"patientName": "ENDO SUHAILI",
+"createBy": "DK",
+"createDate": "2021-10-14T12:00:38.42",
+"updateBy": null,
+"updateDate": "2021-10-14T12:00:38.42",
+"isDeleted": false
+},
+{
+"id": 144,
+"callItemDate": "2021-02-19T03:48:36.55",
+"caller": "novel",
+"callerNo": "kasir@rspermatapamulang.co.id\t",
+"subject": "pengesahan rajal ",
+"comment": "Dr Nalia (umum ugd) // dx onyrolisisi kel.bengkak dan nyeri pada bagian kuku tangan kanan // rm 059651 // rincian sefat-159.580,admin-30.000,jasa-98.000,alkes (kasa lipat 6cm-22.393,sensi glove-20.592,poli propilin-69.090,hyfavix-686,lidocain-2.288,extrasi kuku-176.000, total 578.631 // di acc oleh team analist (lia) full cover //untuk limit 10.000.000 terpakai 536.721 sisa 9.463.279\t",
+"clientMemberId": "EMP18041808",
+"patientName": "ENDO SUHAILI",
+"createBy": "AYU",
+"createDate": "2021-02-19T15:48:36.727",
+"updateBy": null,
+"updateDate": "2021-02-19T15:48:36.727",
+"isDeleted": false
+}
+]
